@@ -1,3 +1,5 @@
-tmp
-bin
+.DS_STORE
 build
+dist
+tiapprestart.xcodeproj/xcuserdata/*.xcuserdatad
+tiapprestart.xcodeproj/project.xcworkspace/xcuserdata/*.xcuserdatad
